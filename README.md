@@ -48,8 +48,8 @@ Database:
 1. Open terminal
 2. Go to frontend folder
 3. Run the following commands:
-   -npm install
-   -npm start
+   - `npm install`
+   - `npm start`
 
 4. Open browser and visit:
    http://localhost:3000
