@@ -59,9 +59,9 @@ Database:
 
 ## Database Configuration Example
 
--spring.datasource.url=jdbc:mysql://localhost:3306/employeedb
--spring.datasource.username=root
--spring.datasource.password=your_password
+- `spring.datasource.url=jdbc:mysql://localhost:3306/employeedb`
+- `spring.datasource.username=root`
+- `spring.datasource.password=your_password`
 
 
 ---
