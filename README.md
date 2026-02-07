@@ -48,4 +48,38 @@ Database:
 1. Open terminal
 2. Go to frontend folder
 3. Run the following commands:
+   npm install
+   npm start
 
+4. Open browser and visit:
+   http://localhost:3000
+
+
+---
+
+## Database Configuration Example
+
+spring.datasource.url=jdbc:mysql://localhost:3306/employeedb
+spring.datasource.username=root
+spring.datasource.password=your_password
+
+
+---
+
+## Screenshots
+
+Project screenshots are available inside the screenshots folder.
+
+---
+
+## Author
+
+Sagar Boinwad
+
+---
+
+## Note
+
+This project is created for learning and practicing full stack development using React and Java.
+
+    
